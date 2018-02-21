@@ -1,0 +1,11 @@
+[package]
+name = "annoy"
+version = "0.0.1"
+authors = ["razorheadfx <razorhead.effect@gmail.com>"]
+
+[dependencies]
+pnet = "0.20"
+structopt = "0.2"
+failure = "0.1"
+failure_derive ="0.1"
+time = "0.1"
